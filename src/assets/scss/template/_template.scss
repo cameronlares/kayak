@@ -1,0 +1,45 @@
+html,
+body,
+.body {
+  background: #e4e5ea;
+  background-color: #e4e5ea
+}
+
+.header {
+
+  background: #ff5e12;
+  background-color: #ff5e12; //As a fallback for email clients
+
+
+  .columns {
+    padding-bottom: 20px;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px;
+
+    .logo_white{
+      width: 128px;
+    }
+    .user_icon{
+      width:32px;
+    }
+  }
+
+}
+
+.sub-header{
+  background: #d04c03;
+  background-color: #d04c03; //As a fallback for email clients
+
+
+  .columns {
+    padding-bottom: 20px;
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-top: 20px;
+   
+  }
+ 
+
+}
+
