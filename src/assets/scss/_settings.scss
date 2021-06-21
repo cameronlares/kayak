@@ -54,7 +54,8 @@ $block-grid-gutter: $global-gutter;
 // -------------
 
 $global-font-color: $black;
-$body-font-family: "Helvetica Neue", Helvetica, Arial, "DejaVuSansBook",
+$body-font-family:'Helvetica Neue', Helvetica, Arial, 'DejaVuSansBook', sans-serif,
+
   sans-serif;
 $global-font-weight: normal;
 $header-color: inherit;
